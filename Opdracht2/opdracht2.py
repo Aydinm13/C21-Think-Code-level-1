@@ -5,5 +5,5 @@ print("Hello world")
 10 * 2 / 2
 
 # semantic error
-name = ("Aydin")
-print("Hello name")
+name = "Aydin"
+print("Hello",name)
