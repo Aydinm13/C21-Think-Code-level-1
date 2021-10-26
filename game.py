@@ -6,7 +6,7 @@ print("It's nice to meet you,",name)
 som = input ("Do you want to play a game?")
 
 if som == "yes":
-    num1 = input ("Please insert the fisrt number: ")
+    num1 = input ("Please insert the first number: ")
     num2 = input ("Please insert the second number: ")
     num1= int(num1)
     num2= int(num2)
